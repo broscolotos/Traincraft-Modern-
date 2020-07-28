@@ -1,0 +1,2 @@
+include ":Trains-In-Motion"
+project(":Trains-In-Motion").projectDir = file("../Trains-In-Motion")

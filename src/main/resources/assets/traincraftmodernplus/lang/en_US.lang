@@ -1,0 +1,21 @@
+<!-- ## This is a comment ## -->
+
+<!-- ## Credit to Eternal Blue Flame ## -->
+
+
+<!-- ## GUI ## -->
+
+
+<!-- ## Items ## -->
+item.tab.TraincraftModernLocomotives.name=TCM+ Locomotives
+item.tab.TraincraftModernRollingstock.name=TCM+ Rollingstock
+<!-- ## Blocks ## -->
+
+<!-- ## Trains ## -->
+item.T1.name=T1
+
+<!-- ## Rollingstock ## -->
+item.T1Tender.name=T1 Tender
+<!-- ## Item, GUI, and Entity are actually defined from the item name, so one name covers all areas ## -->
+
+
